@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Application open]]>
+    </line>
+    <line>
+      <![CDATA[title not matched and expected title isOrangeHRM - New Level of HR Management]]>
+    </line>
+    <line>
+      <![CDATA[Login completed]]>
+    </line>
+    <line>
+      <![CDATA[title not matched and expected title isOrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[logout comleted]]>
+    </line>
+    <line>
+      <![CDATA[Application close]]>
+    </line>
+    <line>
+      <![CDATA[Application open]]>
+    </line>
+    <line>
+      <![CDATA[title not matched and expected title isOrangeHRM - New Level of HR Management]]>
+    </line>
+    <line>
+      <![CDATA[Login completed]]>
+    </line>
+    <line>
+      <![CDATA[title not matched and expected title isOrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[Enter to frame]]>
+    </line>
+    <line>
+      <![CDATA[emp added]]>
+    </line>
+    <line>
+      <![CDATA[Exit to frame]]>
+    </line>
+    <line>
+      <![CDATA[logout comleted]]>
+    </line>
+    <line>
+      <![CDATA[Application close]]>
+    </line>
+    <line>
+      <![CDATA[Application open]]>
+    </line>
+    <line>
+      <![CDATA[title not matched and expected title isOrangeHRM - New Level of HR Management]]>
+    </line>
+    <line>
+      <![CDATA[Login completed]]>
+    </line>
+    <line>
+      <![CDATA[title not matched and expected title isOrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[Enter to frame]]>
+    </line>
+    <line>
+      <![CDATA[employee deleted]]>
+    </line>
+    <line>
+      <![CDATA[Exit to frame]]>
+    </line>
+    <line>
+      <![CDATA[logout comleted]]>
+    </line>
+    <line>
+      <![CDATA[Application close]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41779" started-at="2019-10-02T04:01:03Z" finished-at="2019-10-02T04:01:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41779" started-at="2019-10-02T04:01:03Z" finished-at="2019-10-02T04:01:45Z">
+      <class name="com.hrms.testscript.TC_103">
+        <test-method status="PASS" signature="tc103()[pri:0, instance:com.hrms.testscript.TC_103@1c6b6478]" name="tc103" duration-ms="18246" started-at="2019-10-02T09:31:26Z" finished-at="2019-10-02T09:31:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application open]]>
+            </line>
+            <line>
+              <![CDATA[title not matched and expected title isOrangeHRM - New Level of HR Management]]>
+            </line>
+            <line>
+              <![CDATA[Login completed]]>
+            </line>
+            <line>
+              <![CDATA[title not matched and expected title isOrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[Enter to frame]]>
+            </line>
+            <line>
+              <![CDATA[employee deleted]]>
+            </line>
+            <line>
+              <![CDATA[Exit to frame]]>
+            </line>
+            <line>
+              <![CDATA[logout comleted]]>
+            </line>
+            <line>
+              <![CDATA[Application close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc103 -->
+      </class> <!-- com.hrms.testscript.TC_103 -->
+      <class name="com.hrms.testscript.TC_102">
+        <test-method status="PASS" signature="tc102()[pri:0, instance:com.hrms.testscript.TC_102@47089e5f]" name="tc102" duration-ms="15223" started-at="2019-10-02T09:31:11Z" finished-at="2019-10-02T09:31:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application open]]>
+            </line>
+            <line>
+              <![CDATA[title not matched and expected title isOrangeHRM - New Level of HR Management]]>
+            </line>
+            <line>
+              <![CDATA[Login completed]]>
+            </line>
+            <line>
+              <![CDATA[title not matched and expected title isOrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[Enter to frame]]>
+            </line>
+            <line>
+              <![CDATA[emp added]]>
+            </line>
+            <line>
+              <![CDATA[Exit to frame]]>
+            </line>
+            <line>
+              <![CDATA[logout comleted]]>
+            </line>
+            <line>
+              <![CDATA[Application close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc102 -->
+      </class> <!-- com.hrms.testscript.TC_102 -->
+      <class name="com.hrms.testscript.TC_101">
+        <test-method status="PASS" signature="tc101()[pri:0, instance:com.hrms.testscript.TC_101@4141d797]" name="tc101" duration-ms="8295" started-at="2019-10-02T09:31:03Z" finished-at="2019-10-02T09:31:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application open]]>
+            </line>
+            <line>
+              <![CDATA[title not matched and expected title isOrangeHRM - New Level of HR Management]]>
+            </line>
+            <line>
+              <![CDATA[Login completed]]>
+            </line>
+            <line>
+              <![CDATA[title not matched and expected title isOrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[logout comleted]]>
+            </line>
+            <line>
+              <![CDATA[Application close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc101 -->
+      </class> <!-- com.hrms.testscript.TC_101 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
